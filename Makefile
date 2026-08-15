@@ -1,0 +1,2 @@
+nightly:
+	bash nightly.sh
